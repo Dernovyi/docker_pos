@@ -1,6 +1,6 @@
 > Simply way to run your POS project locally
 
-- add new folder call it: `_docker` from GIT <>
+- add new folder call it: `_docker` from GIT <https://github.com/Dernovyi/docker_pos.git>
 - add to root all folders from project pos
 - if project not in root  `$mosConfig_pos = '';` need to change name folder
 - change name `configuration.example.php` to `configuration.php`
